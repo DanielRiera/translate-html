@@ -9,8 +9,8 @@ Using jQuery for replace string depending the languaje selected or defined in a 
 ### Installation
 
 
-1. Copy lang.min.js in a folder
-2. Reference in index with script tag
+1. Copy lang.min.js in a folder.
+2. Reference in index with script tag.
 3. Create "lang" variable for control the languaje selected, using 1,2,3,4... for diferent languajes for example:
 ```	
 	lang = 1;
@@ -22,7 +22,7 @@ Using jQuery for replace string depending the languaje selected or defined in a 
 		4 = Italian
 	******/
 ```
-4. En your HTML include lg tag for translate string, example
+4. En your HTML include lg tag for translate string, example.
 
 Before
 ```HTML
@@ -32,3 +32,11 @@ After
 ```HTML
 <div><lg>Hello</lg></div>
 ```
+
+5. Create a JSON archive contain the translate string, using 'demo.json' as a guide.
+
+6. Now every time change the DOM, the strings be translated.
+
+### Changelog
+
+1. 2016/08/19 - Is created repository
