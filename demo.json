@@ -1,0 +1,7 @@
+{
+"HELLO":["Hola","Hello"],
+"MSG_OK":["Ok, el archivo ha sido creado","Ok, the archive is created"],
+"WELCOMETEXT":["Bienvenido Invitado","Welcome Guest"],
+"ERROR_01":["Se ha producido un error","An error has occurred"],
+"EMAIL":["Tu Email","Your Email"]
+}
