@@ -11,10 +11,10 @@ Note: I´m using this system for Phonegap Apps
 ### Installation
 
 
-1. Copy lang.min.js in a folder.
-2. Reference in index with script tag.
-3. Create "lang" variable for control the languaje selected, using 1,2,3,4... for diferent languajes for example:
-```	
+- Copy lang.min.js in a folder.
+- Reference in index with script tag.
+- Create "lang" variable for control the languaje selected, using 1,2,3,4... for diferent languajes for example:
+	```	
 	lang = 1;
 
 	/******
@@ -23,8 +23,8 @@ Note: I´m using this system for Phonegap Apps
 		3 = French
 		4 = Italian
 	******/
-```
-4. En your HTML include lg tag for translate string, example.
+	```
+- En your HTML include lg tag for translate string, example.
 
 Before
 ```HTML
@@ -35,9 +35,9 @@ After
 <div><lg>Hello</lg></div>
 ```
 
-5. Create a JSON archive contain the translate string, using 'demo.json' as a guide.
+- Create a JSON archive contain the translate string, using 'demo.json' as a guide.
 
-6. Now every time change the DOM, the strings be translated.
+- Now every time change the DOM, the strings be translated.
 
 ### Changelog
 
