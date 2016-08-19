@@ -1,6 +1,6 @@
 # System of translate string HTML
 
-Using jQuery for replace string, option of <select> tag, placeholder of <inputs> or <textarea> depending the languaje selected or defined in a variable
+Using jQuery for replace string, option of ```<select>``` tag, placeholder of ```<inputs>``` or ```<textarea>``` depending the languaje selected or defined in a variable
 
 Note: I´m using this system for Phonegap Apps
 
