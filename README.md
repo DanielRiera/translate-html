@@ -2,11 +2,11 @@
 
 Using jQuery for replace string depending the languaje selected or defined in a variable
 
-# Dependencies
+### Dependencies
 
 - jQuery
 
-# Installation
+### Installation
 
 
 -Copy lang.min.js in a folder
